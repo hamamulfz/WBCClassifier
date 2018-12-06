@@ -9,8 +9,11 @@ This is still raw code for my thesis.
 
 ### Prerequisites
 
-Install Scikit Learn in conda
-
+Install Scikit-Learn 
+```
+pip install -U scikit-learn
+```
+or via conda
 ```
 conda install scikit-learn
 ```
